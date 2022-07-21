@@ -78,6 +78,7 @@ padding: 1rem 1rem;
 }
 .contact__name input{
     border: hidden 0.5px;
+    outline: none;
 }
 .contact__phone{
     margin: 2rem;
